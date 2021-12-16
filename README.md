@@ -9,7 +9,7 @@ $ gbafix hello.gba
 ```
 
 ```
-$ sudo -E make
+$ make
 ```
 
 ## Env
